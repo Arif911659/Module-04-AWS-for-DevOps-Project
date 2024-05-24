@@ -1,0 +1,10 @@
+Configuring two EC2 Instances in Separate VPCs with A Nginx-Server on one of the instances
+
+1. Set up two Amazon EC2 instances, each in a separate VPC.
+2. Install and configure a Nginx server on one of the instances, which should be located within a private subnet of its respective VPC.
+3. Configure the second EC2 instance, situated in a private subnet of the other VPC, to establish communication with the Nginx server.
+
+
+Please visit
+------------
+https://medium.com/@arif555/configuring-two-ec2-instances-in-separate-vpcs-with-a-nginx-server-on-one-of-the-instances-a1924a22fd91
